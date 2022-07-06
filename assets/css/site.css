@@ -1,0 +1,27 @@
+.bg-karmona {
+    /*Cor default do site*/
+    --bs-bg-opacity: 1;
+    background-color: #e30022;
+}
+
+.header-p {
+    width: 200px;
+    height: 200px;
+    font-weight: bold;
+}
+
+a:hover {
+    transform: scale(1.04);
+}
+
+main>.container {
+    padding: 60px 15px 0;
+}
+
+.text-small {
+    font-size: 85%;
+}
+
+.dropdown-toggle {
+    outline: 0;
+}
